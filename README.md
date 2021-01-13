@@ -1,4 +1,10 @@
-### 👋 Hi, I'm Nick
+### 👋 Hi, I'm Nick!
+
+I'm an aspiring software developer currently seeking work
+
+Right now I'm most focused on mastering JavaScript & React
+
+To contact me about a job or anything else, email me at [contact@nickrokosz.com](mailto:contact@nickrokosz.com)
 
 <!--
 **nicholasrokosz/nicholasrokosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
