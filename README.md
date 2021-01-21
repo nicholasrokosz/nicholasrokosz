@@ -14,7 +14,7 @@ Right now I'm most focused on mastering JavaScript & React
 
 To contact me about a job or anything else, email me at [contact@nickrokosz.com](mailto:contact@nickrokosz.com)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasrokosz&theme=vue-dark&layout=compact&langs_count=6"></img>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasrokosz&theme=default&layout=compact&langs_count=6"></img>
 ### Skills:
 - 👨‍💻 JavaScript, TypeScript, Python
 - ⚙️ React, Gatsby, Svelte
