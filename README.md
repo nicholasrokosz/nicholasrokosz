@@ -14,15 +14,14 @@ Right now I'm most focused on mastering JavaScript & React
 
 To contact me about a job or anything else, email me at [contact@nickrokosz.com](mailto:contact@nickrokosz.com)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasrokosz&theme=vue-dark&layout=compact&langs_count=6"></img>
 ### Skills:
+- 👨‍💻 JavaScript, TypeScript, Python
+- ⚙️ React, Gatsby, Svelte
+- 👁️ Tailwind CSS 2.0, Bootstrap 5, SASS
+- 💽 MySQL, MongoDB, GraphQL
 
-<!-- <p>👨‍💻 JavaScript, TypeScript, Python</p>
-<p>⚙️ React, Gatsby, Svelte</p>
-<p>👁️ Tailwind CSS 2.0, Bootstrap 5, SASS</p>
-<p>💽 MySQL, MongoDB, GraphQL</p>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasrokosz&theme=vue-dark&layout=compact&langs_count=6"></img> -->
-
-<table width="100vw">
+<!-- <table width="100vw">
 <tr>
 <td><p>👨‍💻 JavaScript, TypeScript, Python</p>
 <p>⚙️ React, Gatsby, Svelte</p>
@@ -30,7 +29,7 @@ To contact me about a job or anything else, email me at [contact@nickrokosz.com]
 <p>💽 MySQL, MongoDB, GraphQL</p></td>
 <td><img border="none" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasrokosz&theme=default&layout=compact&langs_count=6"></img></td>
 </tr>
-</table
+</table -->
 
 <!-- Some of my favorite tools/technologies: -->
 
