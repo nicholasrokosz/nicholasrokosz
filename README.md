@@ -21,7 +21,7 @@ To contact me about a job or anything else, email me at [contact@nickrokosz.com]
 - 👁️ Tailwind CSS 2.0, Bootstrap 5, SASS
 - 💽 MySQL, MongoDB, GraphQL
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasrokosz&theme=vue-dark) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasrokosz&theme=vue-dark&layout=compact) -->
 
 
 <!-- Some of my favorite tools/technologies: -->
