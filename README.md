@@ -6,7 +6,7 @@
   \/_/ \/_/\/_/\/_____/\/_/\/_/     \/_/\/_/\/_____/\/_/\/_/\/_____/\/_____/\/_____/ 
                                                                                      
 </pre>
-### Hi, I'm Nick! 👋
+### Hi, I'm Nick! <!--👋-->
 
 I'm a software developer currently seeking work
 
