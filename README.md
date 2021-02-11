@@ -12,6 +12,8 @@ I'm a software developer currently seeking work
 
 Right now I'm most focused on mastering JavaScript & React
 
+Check out some of my past projects at [portfolio.nickrokosz.com](https://portfolio.nickrokosz.com/)
+
 To contact me about a job or anything else, email me at [contact@nickrokosz.com](mailto:contact@nickrokosz.com)
 
 ### Some of my favorite tools/technologies:
