@@ -10,7 +10,7 @@
 
 I'm a software developer currently seeking work
 
-Right now I'm most focused on mastering JavaScript & React
+Right now I'm working as a bootcamp TA and studying TypeScript and algorithms/data structures.
 
 Check out some of my past projects at [portfolio.nickrokosz.com](https://portfolio.nickrokosz.com/)
 
