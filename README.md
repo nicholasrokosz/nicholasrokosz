@@ -12,8 +12,6 @@ I'm a software developer currently seeking work
 
 Right now I'm working as a bootcamp TA and studying TypeScript and algorithms/data structures
 
-Check out some of my past projects at [portfolio.nickrokosz.com](https://portfolio.nickrokosz.com/)
-
 To contact me about a job or anything else, email me at [contact@nickrokosz.com](mailto:contact@nickrokosz.com)
 
 ### Some of my favorite tools/technologies:
