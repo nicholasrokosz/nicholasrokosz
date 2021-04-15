@@ -10,9 +10,9 @@
 
 <!--I'm a software developer currently seeking work-->
 
-Right now I'm working as a bootcamp TA and interning at [Epistemic AI](https://www.epistemic.ai/)
+Right now I'm working as a bootcamp TA and interning at [Epistemic AI](https://www.epistemic.ai/).
 
-To contact me about a job or anything else, email me at [contact@nickrokosz.com](mailto:contact@nickrokosz.com)
+To contact me about a job or anything else, email me at [contact@nickrokosz.com](mailto:contact@nickrokosz.com).
 
 ### Some of my favorite tools/technologies:
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23F7E01C.svg?&style=for-the-badge&logo=javascript&logoColor=%23000000"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%233078C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python%20-%234584B6.svg?&style=for-the-badge&logo=python&logoColor=ffde57"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Gatsby" src="https://img.shields.io/badge/gatsby%20-%23663399.svg?&style=for-the-badge&logo=gatsby&logoColor=white"/> <img alt="Svelte" src="https://img.shields.io/badge/svelte%20-%23FF3F01.svg?&style=for-the-badge&logo=svelte&logoColor=white"/>
