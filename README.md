@@ -8,9 +8,9 @@
 </pre>-->
 ### Hi, I'm Nick! <!--👋-->
 
-I'm a software developer currently seeking work
+<!--I'm a software developer currently seeking work-->
 
-Right now I'm working as a bootcamp TA and studying TypeScript and algorithms/data structures
+Right now I'm working as a bootcamp TA and interning at [Epistemic AI](https://www.epistemic.ai/)
 
 To contact me about a job or anything else, email me at [contact@nickrokosz.com](mailto:contact@nickrokosz.com)
 
