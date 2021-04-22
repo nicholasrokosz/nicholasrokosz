@@ -10,7 +10,7 @@
 
 <!--I'm a software developer currently seeking work-->
 
-Right now I'm working as a bootcamp TA and interning at <a href="https://www.epistemic.ai/" target="__blank">Epistemic AI</a>.
+Right now I'm working as a bootcamp TA and interning at <a href="https://www.epistemic.ai/" target="_blank">Epistemic AI</a>.
 
 To contact me about a job or anything else, email me at [contact@nickrokosz.com](mailto:contact@nickrokosz.com).
 
