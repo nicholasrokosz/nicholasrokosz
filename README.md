@@ -10,7 +10,7 @@
 
 <!--I'm a software developer currently seeking work-->
 
-I'm a front-end developer at <a href="https://www.spyfu.com/" target="_blank">SpyFu</a>.
+I'm a software engineer at <a href="https://www.spyfu.com/" target="_blank">SpyFu</a>.
 
 Email me at [contact@nickrokosz.com](mailto:contact@nickrokosz.com).
 
