@@ -12,7 +12,7 @@
 
 I'm a software engineer at <a href="https://www.spyfu.com/" target="_blank">SpyFu</a>.
 
-Email me at [contact@nickrokosz.com](mailto:contact@nickrokosz.com).
+<!--Email me at [contact@nickrokosz.com](mailto:contact@nickrokosz.com).-->
 
 ### Some of my favorite tools/technologies:
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23F7E01C.svg?&style=for-the-badge&logo=javascript&logoColor=%23000000"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%233078C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python%20-%234584B6.svg?&style=for-the-badge&logo=python&logoColor=ffde57"/> 
