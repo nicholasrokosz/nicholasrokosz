@@ -8,9 +8,11 @@
 </pre>-->
 ### Hi, I'm Nick! <!--👋-->
 
-<!--I'm a software developer currently seeking work-->
+I'm a software engineer currently seeking work. I enjoy working on small, fast-paced teams.
 
-I'm a software engineer at <a href="https://getvesta.io//" target="_blank">Vesta</a>.
+Most of my experience is in full-stack web dev using TypeScript and React.
+
+<!--I'm a software engineer at <a href="https://getvesta.io//" target="_blank">Vesta</a>.-->
 
 <!--Email me at [contact@nickrokosz.com](mailto:contact@nickrokosz.com).-->
 
