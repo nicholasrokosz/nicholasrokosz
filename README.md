@@ -17,7 +17,8 @@ Most of my experience is in full-stack web dev using TypeScript and React.
 <!--Email me at [contact@nickrokosz.com](mailto:contact@nickrokosz.com).-->
 
 ### Some of my favorite tools/technologies:
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%233078C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%233078C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/> <img alt="Racket" src="https://img.shields.io/badge/Racket-3E5BA9.svg?&style=for-the-badge&logo=racket&logoColor=white"/>
+
 
 <!-- <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23F7E01C.svg?&style=for-the-badge&logo=javascript&logoColor=%23000000"/>  <img alt="Python" src="https://img.shields.io/badge/python%20-%234584B6.svg?&style=for-the-badge&logo=python&logoColor=ffde57"/>  <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Vue.js" src="https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/> <img alt="Svelte" src="https://img.shields.io/badge/svelte%20-%23FF3F01.svg?&style=for-the-badge&logo=svelte&logoColor=white"/> -->
 
