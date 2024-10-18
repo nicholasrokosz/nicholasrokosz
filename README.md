@@ -8,7 +8,7 @@
 </pre>-->
 ### Hi, I'm Nick! <!--👋-->
 
-I'm a software engineer currently seeking work. I enjoy working on small, fast-paced teams.
+I'm a sr. software engineer who enjoys working on small, fast-paced teams.
 
 Most of my experience is in full-stack web dev using TypeScript and React.
 
